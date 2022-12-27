@@ -1,0 +1,46 @@
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #textbox {
+    height: 25px;
+    width: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  #button {
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #5cb85c;
+    color: white;
+    font-size: 16px;
+  }
+  
+  #button:hover {
+    cursor: pointer;
+    background-color: #4cae4c;
+  }
+  #copy-button {
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #5cb85c;
+    color: white;
+    font-size: 16px;
+  }
+  
+  #copy-button:hover {
+    cursor: pointer;
+    background-color: #4cae4c;
+  }
+  
