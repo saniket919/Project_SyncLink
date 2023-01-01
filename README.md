@@ -33,5 +33,5 @@ I am a final year student of Master of Computer Applications (MCA) at Banaras Hi
 
 In addition to my technical skills, I have a solid foundation in key computer science concepts, including data structures, algorithms, and programming languages. I have also studied database management systems, artificial intelligence, machine learning, and artificial neural networks, giving me a well-rounded understanding of the field of computer science.
 
-I am eager to apply my knowledge and skills in a professional setting, and I am confident that my experience and expertise will make me a valuable asset to any team. I am dedicated to continuing to learn and grow as a computer science professional, and I am excited about the opportunities that the field has to offer.
+I am eager to apply my knowledge and skills in a professional setting, and I am confident that my experience and expertise will make me a valuable asset to any team. I am dedicated to continuing to learn and grow as a computer science professional, and I am excited about the opportunities that the field has to offer .
 
