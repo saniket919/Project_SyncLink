@@ -1,11 +1,30 @@
 {
-    "manifest_version": 2,
-    "name": "Project SyncLink",
-    "description": "This is the first version of the project in which only the chrome extension is build",
-    "version": "1.0",
-    "browser_action": {
-      "default_icon": "icon.png",
-      "default_popup": "popup.html"
-    }
-  }
-  
+  "name": "Project SynkLink",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "the description",
+  "author": "https://github.com/saniket919",
+  "icons": {
+      "16": "icon.png",
+      "19": "icon.png",
+      "32": "icon.png",
+      "38": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+  },
+ 
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "SyncLink"
+  },
+  "page_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+      "tabs",
+      "activeTab",
+      "clipboardWrite"
+  ]
+ 
+}
